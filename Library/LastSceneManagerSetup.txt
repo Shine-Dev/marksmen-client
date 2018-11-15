@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Resources/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Resources/Scenes/de_mark1.unity
+  isLoaded: 0
+  isActive: 0
